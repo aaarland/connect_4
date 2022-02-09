@@ -1,4 +1,4 @@
-# connect_4
+# Connect 4
 A pygame implementation of Connect 4
 
 ## How to run on a Linux or Mac OS machine
